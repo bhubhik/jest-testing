@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hacker-news-api.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhubhik/jest-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhubhik/jest-testing/issues"
+  },
+  "homepage": "https://github.com/bhubhik/jest-testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
